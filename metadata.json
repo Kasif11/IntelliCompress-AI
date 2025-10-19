@@ -1,0 +1,5 @@
+{
+  "name": "IntelliCompress AI",
+  "description": "A modern web application that intelligently analyzes and prepares your files for compression. Upload an image, set a target size, and let our AI provide insights and a simulated compression result.",
+  "requestFramePermissions": []
+}
